@@ -15,3 +15,8 @@ Pale:
 	roulement: 17,5 mm
 	support barre: 5 mm
 	=> longueur barre: 210 mm
+
+Achats:
+Diodes:		 0.60
+Pompe:		 6.00
+Generatrice:	20.04
